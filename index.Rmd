@@ -169,11 +169,24 @@ CV %<>% print_text_block('data_science_writing_aside')
 CV %<>% print_section('data_science_writings')
 ```
 
-Selected Publications, Posters, and Talks {data-icon=book}
+Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('academic_articles')
+```
+
+
+
+```{r}
+CV %<>% print_links()
+```
+
+Selected Talks {data-icon=comment}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('talks')
 ```
 
 
