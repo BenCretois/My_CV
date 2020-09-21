@@ -53,7 +53,7 @@ Aside
 # Build interactive network of positions colored by section
 # and connected if they occurred in the same year
 #datadrivencv::build_network_logo(CV$entries_data)
-knitr::include_graphics("My_Pic.jpg")
+knitr::include_graphics("My_Pic.png")
 ```
 
 
