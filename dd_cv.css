@@ -36,10 +36,10 @@ sup {
 /* Customize some of the sizing variables */
 :root {
   --sidebar-width: 12rem; /* Shrink sidebar width  */
-  --sidebar-background-color: #9B870C; /* Make sidebar blue */
+  --sidebar-background-color: #38ADAE; /* Make sidebar blue */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
-  --decorator-border: 2px solid #9B870C; /* Make timeline a blue as well*/
+  --decorator-border: 2px solid #CD295A; /* Make timeline a blue as well*/
 }
 
 .details .place {
@@ -85,7 +85,7 @@ sup {
 
 /* Make little circle outline be a light blue */
 .decorator::after {
-  background-color: #9B870C;
+  background-color: #CD295A;
 }
 
 /* Remove the fake bullets from lists */
