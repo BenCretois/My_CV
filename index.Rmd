@@ -12,6 +12,7 @@ output:
   pagedown::html_resume:
     css: ['dd_cv.css', 'resume']
     self_contained: true
+knit: pagedown::chrome_print
 ---
 
 ```{r, include=FALSE}

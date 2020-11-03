@@ -1,0 +1,36 @@
+---
+author: Benjamin Cretois
+return-address: 
+  - 17A Rosenborg Gate
+  - 7043 Trondheim
+address:
+  - Benjamin Cretois
+  - 17A Rosenborg Gate
+  - 7043 Trondheim
+  - Norway
+  
+subject: Application to the Data Scientist position at NINA
+opening: Dear Mr Roald Vang and Mrs Siri Svendsen,
+closing: Best regards,
+signature: Benjamin Cretois
+
+output: komaletter::komaletter
+---
+
+With advanced understanding of statistical and machine learning methods, with also proficient skills in R, Python and GIS softwares that I acquired during my PhD I am very excited to apply to the Data Scientist position you are offering.
+
+Data collection and analysis is becoming increasingly important. I truly believe in the power of using data to increase our understanding of the world and of what people's behavior. Analyzing data is certainly the key to finding solutions to many challenges including conflicts and war and PRIO understood this. This is one of the reason why I would like to grow as a Data Scientist in PRIO.
+
+I believe that a good understanding of data is a critical part in finding solutions to current biodiversity challenges we are facing. Collecting, managing and analyzing data require a set of skills that I developed throughout my education and professional experience. Developing solutions to better use large unstructured dataset such as GBIF and Artsdatabanken has been an important part of my PhD work
+
+CROSSDISCIPLINARITY
+
+Solving problems using very large dataset has been a staple during my PhD where I needed to find statistical solutions to make better use of certain kind of data. My research experience also taught me to be more flexible in my work. Working with and teaching complex concepts a wide range of audiences, from master students and social scientists to hunters helped me to become a more concise and efficient speaker. I should also mention that my PhD education sharpened my time management skills and my ability to work under pressure, necessary abilities in Data Science.
+
+I thank you very much for your attention and I really look forward to hearing from you soon.
+
+
+
+
+
+
