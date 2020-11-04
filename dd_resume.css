@@ -4,16 +4,20 @@
 /* Main text is monserrat*/
 body {
   font-family: "Montserrat", sans-serif;
-  margin-top: 0px;
   font-weight: 300;
-  line-height: 1.05;
-  min-height: 100vh;
+  line-height: 1.25;
+  height: 100%;
   color: #444;
 }
 
 /* Give headers playfair font */
-h1,
-h2,
+
+h1 {
+  margin-top: -90px;
+}
+h2 {
+  margin-top: -20px;
+},
 h3 {
   font-family: "Playfair Display", serif;
   color: #000;
@@ -39,7 +43,7 @@ sup {
 /* Customize some of the sizing variables */
 :root {
   --sidebar-width: 12rem; /* Shrink sidebar width  */
-  --sidebar-background-color: #38ADAE; /* Make sidebar blue */
+  --sidebar-background-color: #add8e6; /* Make sidebar blue */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
   --decorator-border: 2px solid #CD295A; /* Make timeline a blue as well*/
@@ -50,7 +54,7 @@ sup {
 }
 
 .main-block:not(.concise) .details div {
-  padding-top: 0.005rem; /*0.005 */
+  padding-top: 0.1rem; /*0.005 */
 }
 
 /* Laptop icon isn't centered by default which is lame */
