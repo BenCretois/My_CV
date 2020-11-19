@@ -4,41 +4,26 @@ return-address:
   - 17A Rosenborg Gate
   - 7043 Trondheim
 address:
-  - Benjamin Cretois
-  - 17A Rosenborg Gate
-  - 7043 Trondheim
+  - Norwegian Institute for Nature Research
+  - P.O. Box 5685 Torgard
+  - NO-7485 Trondheim
   - Norway
   
 subject: Application to the Data Scientist position at NINA
-opening: Dear Mr Roald Vang and Mrs Siri Svendsen,
+opening: Dear Mrs Svendsen, Mr Vang and Mr Frassinelli
 closing: Best regards,
 signature: Benjamin Cretois
 
 output: komaletter::komaletter
 ---
 
-Currently PhD Candidate at NTNU in the project "Digital Transformation" where I am developing solutions to make large unstructured dataset more useful for biodiversity research, I have a strong hand-on experience with R, Python and other GIS software. I am very interested in position of Data Scientist you are advertising and I would be thrilled to be working at NINA in your team.
+With hand-on experience with R, Python, multiple GIS softwares and with a strong interest in statistics and machine learning I am very interested in the Data Scientist position you are offering and I would be thrilled to be part of your team at NINA.
 
-I believe that a good understanding of data is a critical part in finding solutions to the current biodiversity and climate crises we are facing. NINA is clearly aware that knowledge production is hindered by the diversity of data format and metadata standard. NINA is leading the way towards more usable biodiversity databases as shown by the Living Norway initiative. I would love to be part in this effort to tackle challenges in data use and deepen my knowledge about data science with your team.
+I believe a good understanding of data is critical to finding solutions to the current biodiversity and climate crises we are facing. NINA is clearly aware that knowledge production is hindered by the diversity of data and metadata standard and, as shown by the Living Norway initiative, NINA is leading the way towards healthier biodiversity databases. I would love to be part of this effort aiming at tackling challenges in data use and develop my knowledge of data science with your team.
 
-Passionate about new technologies and methodologies related to data
-
-Visualizing, managing and analyzing data have been a critical part of my education and professional experience. Developing solutions to better use large unstructured dataset such as GBIF and Artsdatabanken has been an important part of my PhD work. Working in a team composed of members of very different background ...
-
-EAGER TO LEARN
-
-CROSSDISCIPLINARITY
-
-ADAPTABILITY
-
-COMMUNICATION
-
-Solving problems using very large dataset has been a staple during my PhD where I needed to find statistical solutions to make better use of certain kind of data. My research experience also taught me to be more flexible in my work. Working with and teaching complex concepts a wide range of audiences, from master students and social scientists to hunters helped me to become a more concise and efficient speaker. I should also mention that my PhD education sharpened my time management skills and my ability to work under pressure, necessary abilities in Data Science.
+Visualizing, wrangling and analyzing data have been a critical part of my PhD where I developed solutions to better use unstructured dataset coming from large databases such as GBIF and Artsdatabanken. Curious about new technologies and methods, I am currently studying image recognition algorithms with Keras. I should also add that I am learning Norwegian, as I wish to stay in Norway.
+Finally, working together implies understanding each other. Collaborating with cross-disciplinary teams and teaching statistics at master level improved my ability to convey complex concepts to a wide range of audience. 
 
 I thank you very much for your attention and I really look forward to hearing from you soon.
-
-
-
-
 
 
