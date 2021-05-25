@@ -12,7 +12,7 @@ output:
   pagedown::html_resume:
     css: ['dd_cv.css', 'resume']
     self_contained: true
-knit: pagedown::chrome_print
+knit: pagedown::chrome_print(rmarkdown::render('index.Rmd'), browser="C:/Users/benjamin.cretois/AppData/Local/Google/Chrome/Application/chrome.exe")
 ---
 
 ```{r, include=FALSE}
@@ -102,7 +102,24 @@ Main
 CV %<>% print_text_block("intro") 
 ```
 
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
 
+::: aside
+```{r}
+# CV %<>% print_text_block('industy_experience_aside')
+```
+:::
+
+```{r}
+CV %<>% print_section('professional_positions')
+```
+
+<!-- These breaks just force a new page so section doesnt get cut off 
+<br>
+<br>
+<br>
+-->
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -120,25 +137,6 @@ Research Experience {data-icon=laptop}
 CV %<>% print_section('research_positions')
 ```
 
-
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-::: aside
-```{r}
-# CV %<>% print_text_block('industy_experience_aside')
-```
-:::
-
-```{r}
-CV %<>% print_section('professional_positions')
-```
-
-<!-- These breaks just force a new page so section doesnt get cut off -->
-<br>
-<br>
-<br>
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
